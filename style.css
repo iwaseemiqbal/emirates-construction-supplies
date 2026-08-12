@@ -985,6 +985,8 @@ body {
 
     .navbar-brand span {
         font-size: 18px !important;
+        white-space: normal;
+        line-height: 1.2;
     }
 
 }
