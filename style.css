@@ -977,3 +977,7 @@ html{
 .navbar-brand img{
     object-fit:cover;
 }
+html,
+body {
+    overflow-x: hidden;
+}
