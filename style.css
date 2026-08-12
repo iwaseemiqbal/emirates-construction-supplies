@@ -981,3 +981,10 @@ html,
 body {
     overflow-x: hidden;
 }
+@media (max-width: 768px) {
+
+    .navbar-brand span {
+        font-size: 18px !important;
+    }
+
+}
